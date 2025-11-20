@@ -29,6 +29,8 @@ The objective is to identify "characteristics that are associated with a person 
 │   └── random_forest.py
 │
 ├── requirements.txt
+├── Technical_report.pdf          # Full documentation (methodology, figures, and tables)
+├── Presentation.pdf              # Slides outlining design choices and key findings
 └── README.md
 ```
 
