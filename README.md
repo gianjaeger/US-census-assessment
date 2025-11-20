@@ -10,8 +10,8 @@ The objective is "identifying characteristics that are associated with a person 
 
 ```text
 .
-├── Analysis_1.ipynb              # Statistical analysis and exploratory data analysis
-├── Analysis_2.ipynb              # Machine learning analysis and modelling
+├── Analysis_1.ipynb              # Data cleaning and statistical analysis
+├── Analysis_2.ipynb              # Machine learning analysis
 │
 ├── Data/
 │   ├── Raw/
