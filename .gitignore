@@ -1,2 +1,3 @@
 assessment/
-__pycache__/assessment/
+__pycache__/
+.DS_Store
