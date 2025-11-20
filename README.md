@@ -4,7 +4,7 @@
 
 The assessment provides a sample dataset from the US Census archive containing detailed, but anonymized, information for ~300,000 individuals. Specifically, it contains information on 43 features/variables that I group into the categories: "Demographic, labour market and household", "Financial" and "Geographic". See attached PDF write-up for a full beak-down.
 
-The objective is "identifying characteristics that are associated with a person making more or less than $50,000 per year".
+The objective is to identify "characteristics that are associated with a person making more or less than $50,000 per year".
 
 ## Repository structure
 
