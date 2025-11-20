@@ -11,6 +11,7 @@ The objective is "identifying characteristics that are associated with a person 
 .
 ├── Analysis_1.ipynb              # Statistical analysis and exploratory data analysis
 ├── Analysis_2.ipynb              # Machine learning analysis and modelling
+│
 ├── Data/
 │   ├── Raw/
 │   ├── Cleaned/
