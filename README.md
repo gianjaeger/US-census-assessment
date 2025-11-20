@@ -36,10 +36,10 @@ The objective is "identifying characteristics that are associated with a person 
 
 The project is structured into two notebooks:
 
-**Analysis_1.ipynb — Data cleaning and statistical analysis**
+**Analysis_1.ipynb (Data cleaning and statistical analysis)**
 Covers data cleaning, exploratory data analysis, and hypothesis testing. Includes basic descriptive statistics, visual exploration, and bivariate tests for both numerical and categorical variables.
 
-**Analysis_2.ipynb — Machine learning**
+**Analysis_2.ipynb (Machine learning analysis)**
 Builds predictive models to capture non-linear relationships. Implements a Random Forest and a Logistic Regression model, with appropriate preprocessing, hyperparameter tuning, and an interpretability analysis.
 
 ## Data availability and reproducibility
