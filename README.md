@@ -30,6 +30,7 @@ The objective is "identifying characteristics that are associated with a person 
 │
 ├── requirements.txt
 └── README.md
+```
 
 ## Analysis Overview
 
